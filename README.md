@@ -16,4 +16,14 @@ This repository includes all assignments and parts of the DAT601 course.
     <li>Unnormaised logical ERD image.</li>
     <li>Normalised logical ERD image.</li>
 </ul>
+<br>
 
+### A2 P2
+<ul>
+    <li>Report in a Microsoft Word document format.</li>
+    <li>Three sql database files (Microsoft SQL Server).</li>
+    <li>Database size estimation Excel spreadsheet.</li>
+</ul>
+<br>
+
+The full report is located at the top level.
