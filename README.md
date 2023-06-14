@@ -16,3 +16,4 @@ This repository includes all assignments and parts of the DAT601 course.
     <li>Unnormaised logical ERD image.</li>
     <li>Normalised logical ERD image.</li>
 </ul>
+
