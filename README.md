@@ -1,10 +1,18 @@
-# DAT601_TSQL_Practice
-Practice queries on the small business database for DAT601 Assignment 1 Part 2. Uses SQL Server.
+# DAT601 S1 2023
+This repository includes all assignments and parts of the DAT601 course.
 <br><br>
 
-### Notes
+### A1
 <ul>
     <li>SQL is in the queries.sql file.</li>
     <li>The related questions are in the questions.md file.</li>
     <li>Please ensure that the database name is correctly set when testing the queries.</li>
+</ul>
+<br>
+
+### A2 P1
+<ul>
+    <li>Report in a Microsoft Word document format.</li>
+    <li>Unnormaised logical ERD image.</li>
+    <li>Normalised logical ERD image.</li>
 </ul>
